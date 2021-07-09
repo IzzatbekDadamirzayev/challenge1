@@ -8,6 +8,7 @@ body {
   background: #e6eff6;
   font-family: 'Poppins', sans-serif;
   color: #fff;
+  overflow-x: hiden
 }
 .container-fluid {
   display: grid;
